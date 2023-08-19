@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav{
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    height: 2rem;
+    
+}
+
+.logo{
+    color: #fff;
+    margin-top: 2px;
+    font-family: sans-serif;
+
+}
+
+.Signupbutton{
+/* width: 4rem; */
+background-color: blue;
+color: #fff;
+border: none;   
+font-family: sans-serif;
+height:1rem;
+}
+
+.heading{
+    font-family: sans-serif;
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+
+.form_control2{
+     width: 100%;
+     height: 400px;
+     display: flex;
+     justify-content: center;
+     align-items: center; 
+}
+
+.mb-3{
+    padding: 5px;
+}
